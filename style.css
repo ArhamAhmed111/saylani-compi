@@ -76,6 +76,7 @@ header {
   }
   .hero-sec{
     display: flex;
+flex-wrap: wrap;
     background-image: url(./img/home-banner.jpg.webp);
     height: 754px;
     align-items: center;
